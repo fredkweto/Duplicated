@@ -236,7 +236,7 @@ a{text-decoration: none;}
         width:100%;
     }
     .page-header-right{
-        float:none;
+        display:none;
         width:100%;
     }
     .page-header{
@@ -265,7 +265,7 @@ a{text-decoration: none;}
 }
 @media (max-width: 340px){
     .main-content{
-        top:50%;
+        top:100%;
     }
     .page-header-right{
         display: none;

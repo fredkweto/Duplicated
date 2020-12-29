@@ -265,7 +265,7 @@ a{text-decoration: none;}
 }
 @media (max-width: 340px){
     .main-content{
-        top:70%;
+        top:50%;
     }
     .page-header-right{
         display: none;
